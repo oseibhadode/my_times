@@ -1,0 +1,47 @@
+[33mcommit 23e24d34d1e31f3a63d339c682d02024f868090d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: oseibhadode <oseibhadode@gmail.com>
+Date:   Mon Jan 8 23:04:43 2018 +0100
+
+    Footer added to Webpage and final corrections made
+
+[33mcommit 1fa2491b9dcd464f5ea763d5e6208d06e6a71f83[m
+Author: oseibhadode <oseibhadode@gmail.com>
+Date:   Mon Jan 8 20:51:38 2018 +0100
+
+    News list created under News Bites
+
+[33mcommit e106d6e51c6bb563c8b1e68cc09e8d2830d621ef[m
+Author: oseibhadode <oseibhadode@gmail.com>
+Date:   Mon Jan 8 20:12:02 2018 +0100
+
+    Borders from Webpage removed
+
+[33mcommit f144e42cdb62b825e4a6f000ec7a7f6105286e17[m
+Author: oseibhadode <oseibhadode@gmail.com>
+Date:   Mon Jan 8 19:07:31 2018 +0100
+
+    HMTL and CSS modified with more images
+
+[33mcommit 8422399c6ec5bbcc78d6904d3ab5d4fd70b7a1fd[m
+Author: oseibhadode <oseibhadode@gmail.com>
+Date:   Thu Jan 4 15:17:19 2018 +0100
+
+    Web page structured into respective containers
+
+[33mcommit 1abc18718c331ff61fe228eec352f2880500e8d4[m
+Author: oseibhadode <oseibhadode@gmail.com>
+Date:   Tue Jan 2 19:41:29 2018 +0100
+
+    Header of the web page created
+
+[33mcommit 10d7f149c6d1b0c639f8bfce7e774069b17b67a7[m
+Author: oseibhadode <oseibhadode@gmail.com>
+Date:   Tue Jan 2 19:34:58 2018 +0100
+
+    Minor adjustment made to Boiler Plate Code
+
+[33mcommit 4b67daf6511cdf3424be034b7a2a986211d6949d[m
+Author: oseibhadode <oseibhadode@gmail.com>
+Date:   Tue Jan 2 19:07:11 2018 +0100
+
+    First Commit with html Boiler Plate code
